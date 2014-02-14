@@ -2,15 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30436731-f7f5-4f16-9a26-65a015c3a754" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ace.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blank.html" afterPath="$PROJECT_DIR$/blank.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buttons.html" afterPath="$PROJECT_DIR$/buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calendar.html" afterPath="$PROJECT_DIR$/calendar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dropzone.html" afterPath="$PROJECT_DIR$/dropzone.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements.html" afterPath="$PROJECT_DIR$/elements.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/error-404.html" afterPath="$PROJECT_DIR$/error-404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/error-500.html" afterPath="$PROJECT_DIR$/error-500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form-elements.html" afterPath="$PROJECT_DIR$/form-elements.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form-wizard.html" afterPath="$PROJECT_DIR$/form-wizard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grid.html" afterPath="$PROJECT_DIR$/grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inbox.html" afterPath="$PROJECT_DIR$/inbox.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/invoice.html" afterPath="$PROJECT_DIR$/invoice.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jqgrid.html" afterPath="$PROJECT_DIR$/jqgrid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery-ui.html" afterPath="$PROJECT_DIR$/jquery-ui.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.html" afterPath="$PROJECT_DIR$/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nestable-list.html" afterPath="$PROJECT_DIR$/nestable-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.html" afterPath="$PROJECT_DIR$/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tables.html" afterPath="$PROJECT_DIR$/tables.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeline.html" afterPath="$PROJECT_DIR$/timeline.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/treeview.html" afterPath="$PROJECT_DIR$/treeview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/typography.html" afterPath="$PROJECT_DIR$/typography.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/widgets.html" afterPath="$PROJECT_DIR$/widgets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wysiwyg.html" afterPath="$PROJECT_DIR$/wysiwyg.html" />
     </list>
     <ignored path="ace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,18 +51,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="64" selection-start="232" selection-end="232" vertical-scroll-proportion="0.15889029" vertical-offset="0" max-vertical-offset="47418">
+            <state line="2138" column="0" selection-start="64111" selection-end="64111" vertical-scroll-proportion="-1.0340909" vertical-offset="44807" max-vertical-offset="45108">
               <folding>
-                <marker date="1392344661751" expanded="true" signature="57220:57327" placeholder="..." />
+                <element signature="n#type#0;n#script#15;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1392345272890" expanded="true" signature="57220:57327" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-wizard.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/form-wizard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1479" column="0" selection-start="45467" selection-end="45467" vertical-scroll-proportion="-19.433332" vertical-offset="30476" max-vertical-offset="31248">
+              <folding>
+                <element signature="n#type#0;n#script#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1392345272690" expanded="true" signature="40400:40508" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blank.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blank.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="802" column="0" selection-start="21049" selection-end="21049" vertical-scroll-proportion="0.52095807" vertical-offset="16878" max-vertical-offset="17241">
+              <folding>
+                <marker date="1392345272918" expanded="true" signature="20433:20541" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +100,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blank.html" />
       </list>
     </option>
   </component>
@@ -164,11 +212,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="48" width="1668" height="972" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5387324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -179,7 +228,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -204,9 +252,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="64" selection-start="232" selection-end="232" vertical-scroll-proportion="0.15889029" vertical-offset="0" max-vertical-offset="47418">
+        <state line="2138" column="0" selection-start="64111" selection-end="64111" vertical-scroll-proportion="-1.0340909" vertical-offset="44807" max-vertical-offset="45108">
           <folding>
-            <marker date="1392344661751" expanded="true" signature="57220:57327" placeholder="..." />
+            <element signature="n#type#0;n#script#15;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1392345272890" expanded="true" signature="57220:57327" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form-wizard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1479" column="0" selection-start="45467" selection-end="45467" vertical-scroll-proportion="-19.433332" vertical-offset="30476" max-vertical-offset="31248">
+          <folding>
+            <element signature="n#type#0;n#script#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1392345272690" expanded="true" signature="40400:40508" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="802" column="0" selection-start="21049" selection-end="21049" vertical-scroll-proportion="0.52095807" vertical-offset="16878" max-vertical-offset="17241">
+          <folding>
+            <marker date="1392345272918" expanded="true" signature="20433:20541" placeholder="..." />
           </folding>
         </state>
       </provider>
